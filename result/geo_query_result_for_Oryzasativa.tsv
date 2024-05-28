@@ -1,0 +1,505 @@
+Year	Count	DataSetType	Type
+2000	0	expression profiling by array	microarray
+2001	0	expression profiling by array	microarray
+2002	0	expression profiling by array	microarray
+2003	0	expression profiling by array	microarray
+2004	3	expression profiling by array	microarray
+2005	8	expression profiling by array	microarray
+2006	12	expression profiling by array	microarray
+2007	29	expression profiling by array	microarray
+2008	23	expression profiling by array	microarray
+2009	37	expression profiling by array	microarray
+2010	46	expression profiling by array	microarray
+2011	57	expression profiling by array	microarray
+2012	81	expression profiling by array	microarray
+2013	53	expression profiling by array	microarray
+2014	48	expression profiling by array	microarray
+2015	38	expression profiling by array	microarray
+2016	41	expression profiling by array	microarray
+2017	43	expression profiling by array	microarray
+2018	18	expression profiling by array	microarray
+2019	28	expression profiling by array	microarray
+2020	14	expression profiling by array	microarray
+2021	15	expression profiling by array	microarray
+2022	9	expression profiling by array	microarray
+2023	4	expression profiling by array	microarray
+2000	0	expression profiling by genome tiling array	microarray
+2001	0	expression profiling by genome tiling array	microarray
+2002	0	expression profiling by genome tiling array	microarray
+2003	0	expression profiling by genome tiling array	microarray
+2004	0	expression profiling by genome tiling array	microarray
+2005	2	expression profiling by genome tiling array	microarray
+2006	0	expression profiling by genome tiling array	microarray
+2007	3	expression profiling by genome tiling array	microarray
+2008	0	expression profiling by genome tiling array	microarray
+2009	1	expression profiling by genome tiling array	microarray
+2010	0	expression profiling by genome tiling array	microarray
+2011	3	expression profiling by genome tiling array	microarray
+2012	4	expression profiling by genome tiling array	microarray
+2013	0	expression profiling by genome tiling array	microarray
+2014	1	expression profiling by genome tiling array	microarray
+2015	0	expression profiling by genome tiling array	microarray
+2016	1	expression profiling by genome tiling array	microarray
+2017	0	expression profiling by genome tiling array	microarray
+2018	2	expression profiling by genome tiling array	microarray
+2019	0	expression profiling by genome tiling array	microarray
+2020	0	expression profiling by genome tiling array	microarray
+2021	0	expression profiling by genome tiling array	microarray
+2022	1	expression profiling by genome tiling array	microarray
+2023	0	expression profiling by genome tiling array	microarray
+2000	0	expression profiling by snp array	microarray
+2001	0	expression profiling by snp array	microarray
+2002	0	expression profiling by snp array	microarray
+2003	0	expression profiling by snp array	microarray
+2004	0	expression profiling by snp array	microarray
+2005	0	expression profiling by snp array	microarray
+2006	0	expression profiling by snp array	microarray
+2007	0	expression profiling by snp array	microarray
+2008	0	expression profiling by snp array	microarray
+2009	0	expression profiling by snp array	microarray
+2010	1	expression profiling by snp array	microarray
+2011	0	expression profiling by snp array	microarray
+2012	0	expression profiling by snp array	microarray
+2013	0	expression profiling by snp array	microarray
+2014	0	expression profiling by snp array	microarray
+2015	0	expression profiling by snp array	microarray
+2016	0	expression profiling by snp array	microarray
+2017	0	expression profiling by snp array	microarray
+2018	0	expression profiling by snp array	microarray
+2019	0	expression profiling by snp array	microarray
+2020	0	expression profiling by snp array	microarray
+2021	0	expression profiling by snp array	microarray
+2022	0	expression profiling by snp array	microarray
+2023	0	expression profiling by snp array	microarray
+2000	0	genome binding/occupancy profiling by array	microarray
+2001	0	genome binding/occupancy profiling by array	microarray
+2002	0	genome binding/occupancy profiling by array	microarray
+2003	0	genome binding/occupancy profiling by array	microarray
+2004	0	genome binding/occupancy profiling by array	microarray
+2005	0	genome binding/occupancy profiling by array	microarray
+2006	0	genome binding/occupancy profiling by array	microarray
+2007	0	genome binding/occupancy profiling by array	microarray
+2008	0	genome binding/occupancy profiling by array	microarray
+2009	0	genome binding/occupancy profiling by array	microarray
+2010	0	genome binding/occupancy profiling by array	microarray
+2011	0	genome binding/occupancy profiling by array	microarray
+2012	0	genome binding/occupancy profiling by array	microarray
+2013	0	genome binding/occupancy profiling by array	microarray
+2014	0	genome binding/occupancy profiling by array	microarray
+2015	0	genome binding/occupancy profiling by array	microarray
+2016	0	genome binding/occupancy profiling by array	microarray
+2017	0	genome binding/occupancy profiling by array	microarray
+2018	0	genome binding/occupancy profiling by array	microarray
+2019	0	genome binding/occupancy profiling by array	microarray
+2020	0	genome binding/occupancy profiling by array	microarray
+2021	0	genome binding/occupancy profiling by array	microarray
+2022	0	genome binding/occupancy profiling by array	microarray
+2023	0	genome binding/occupancy profiling by array	microarray
+2000	0	genome binding/occupancy profiling by genome tiling array	microarray
+2001	0	genome binding/occupancy profiling by genome tiling array	microarray
+2002	0	genome binding/occupancy profiling by genome tiling array	microarray
+2003	0	genome binding/occupancy profiling by genome tiling array	microarray
+2004	0	genome binding/occupancy profiling by genome tiling array	microarray
+2005	0	genome binding/occupancy profiling by genome tiling array	microarray
+2006	0	genome binding/occupancy profiling by genome tiling array	microarray
+2007	0	genome binding/occupancy profiling by genome tiling array	microarray
+2008	1	genome binding/occupancy profiling by genome tiling array	microarray
+2009	0	genome binding/occupancy profiling by genome tiling array	microarray
+2010	0	genome binding/occupancy profiling by genome tiling array	microarray
+2011	1	genome binding/occupancy profiling by genome tiling array	microarray
+2012	0	genome binding/occupancy profiling by genome tiling array	microarray
+2013	0	genome binding/occupancy profiling by genome tiling array	microarray
+2014	0	genome binding/occupancy profiling by genome tiling array	microarray
+2015	0	genome binding/occupancy profiling by genome tiling array	microarray
+2016	0	genome binding/occupancy profiling by genome tiling array	microarray
+2017	0	genome binding/occupancy profiling by genome tiling array	microarray
+2018	0	genome binding/occupancy profiling by genome tiling array	microarray
+2019	0	genome binding/occupancy profiling by genome tiling array	microarray
+2020	0	genome binding/occupancy profiling by genome tiling array	microarray
+2021	0	genome binding/occupancy profiling by genome tiling array	microarray
+2022	0	genome binding/occupancy profiling by genome tiling array	microarray
+2023	0	genome binding/occupancy profiling by genome tiling array	microarray
+2000	0	genome binding/occupancy profiling by snp array	microarray
+2001	0	genome binding/occupancy profiling by snp array	microarray
+2002	0	genome binding/occupancy profiling by snp array	microarray
+2003	0	genome binding/occupancy profiling by snp array	microarray
+2004	0	genome binding/occupancy profiling by snp array	microarray
+2005	0	genome binding/occupancy profiling by snp array	microarray
+2006	0	genome binding/occupancy profiling by snp array	microarray
+2007	0	genome binding/occupancy profiling by snp array	microarray
+2008	0	genome binding/occupancy profiling by snp array	microarray
+2009	0	genome binding/occupancy profiling by snp array	microarray
+2010	0	genome binding/occupancy profiling by snp array	microarray
+2011	0	genome binding/occupancy profiling by snp array	microarray
+2012	0	genome binding/occupancy profiling by snp array	microarray
+2013	0	genome binding/occupancy profiling by snp array	microarray
+2014	0	genome binding/occupancy profiling by snp array	microarray
+2015	0	genome binding/occupancy profiling by snp array	microarray
+2016	0	genome binding/occupancy profiling by snp array	microarray
+2017	0	genome binding/occupancy profiling by snp array	microarray
+2018	0	genome binding/occupancy profiling by snp array	microarray
+2019	0	genome binding/occupancy profiling by snp array	microarray
+2020	0	genome binding/occupancy profiling by snp array	microarray
+2021	0	genome binding/occupancy profiling by snp array	microarray
+2022	0	genome binding/occupancy profiling by snp array	microarray
+2023	0	genome binding/occupancy profiling by snp array	microarray
+2000	0	genome variation profiling by array	microarray
+2001	0	genome variation profiling by array	microarray
+2002	0	genome variation profiling by array	microarray
+2003	0	genome variation profiling by array	microarray
+2004	0	genome variation profiling by array	microarray
+2005	0	genome variation profiling by array	microarray
+2006	0	genome variation profiling by array	microarray
+2007	0	genome variation profiling by array	microarray
+2008	0	genome variation profiling by array	microarray
+2009	1	genome variation profiling by array	microarray
+2010	1	genome variation profiling by array	microarray
+2011	0	genome variation profiling by array	microarray
+2012	0	genome variation profiling by array	microarray
+2013	0	genome variation profiling by array	microarray
+2014	0	genome variation profiling by array	microarray
+2015	0	genome variation profiling by array	microarray
+2016	0	genome variation profiling by array	microarray
+2017	0	genome variation profiling by array	microarray
+2018	0	genome variation profiling by array	microarray
+2019	0	genome variation profiling by array	microarray
+2020	0	genome variation profiling by array	microarray
+2021	0	genome variation profiling by array	microarray
+2022	0	genome variation profiling by array	microarray
+2023	0	genome variation profiling by array	microarray
+2000	0	genome variation profiling by genome tiling array	microarray
+2001	0	genome variation profiling by genome tiling array	microarray
+2002	0	genome variation profiling by genome tiling array	microarray
+2003	0	genome variation profiling by genome tiling array	microarray
+2004	0	genome variation profiling by genome tiling array	microarray
+2005	0	genome variation profiling by genome tiling array	microarray
+2006	0	genome variation profiling by genome tiling array	microarray
+2007	0	genome variation profiling by genome tiling array	microarray
+2008	0	genome variation profiling by genome tiling array	microarray
+2009	0	genome variation profiling by genome tiling array	microarray
+2010	0	genome variation profiling by genome tiling array	microarray
+2011	0	genome variation profiling by genome tiling array	microarray
+2012	1	genome variation profiling by genome tiling array	microarray
+2013	0	genome variation profiling by genome tiling array	microarray
+2014	1	genome variation profiling by genome tiling array	microarray
+2015	0	genome variation profiling by genome tiling array	microarray
+2016	0	genome variation profiling by genome tiling array	microarray
+2017	0	genome variation profiling by genome tiling array	microarray
+2018	0	genome variation profiling by genome tiling array	microarray
+2019	0	genome variation profiling by genome tiling array	microarray
+2020	0	genome variation profiling by genome tiling array	microarray
+2021	0	genome variation profiling by genome tiling array	microarray
+2022	0	genome variation profiling by genome tiling array	microarray
+2023	0	genome variation profiling by genome tiling array	microarray
+2000	0	genome variation profiling by snp array	microarray
+2001	0	genome variation profiling by snp array	microarray
+2002	0	genome variation profiling by snp array	microarray
+2003	0	genome variation profiling by snp array	microarray
+2004	0	genome variation profiling by snp array	microarray
+2005	0	genome variation profiling by snp array	microarray
+2006	0	genome variation profiling by snp array	microarray
+2007	0	genome variation profiling by snp array	microarray
+2008	0	genome variation profiling by snp array	microarray
+2009	0	genome variation profiling by snp array	microarray
+2010	0	genome variation profiling by snp array	microarray
+2011	0	genome variation profiling by snp array	microarray
+2012	0	genome variation profiling by snp array	microarray
+2013	0	genome variation profiling by snp array	microarray
+2014	0	genome variation profiling by snp array	microarray
+2015	0	genome variation profiling by snp array	microarray
+2016	1	genome variation profiling by snp array	microarray
+2017	0	genome variation profiling by snp array	microarray
+2018	0	genome variation profiling by snp array	microarray
+2019	0	genome variation profiling by snp array	microarray
+2020	0	genome variation profiling by snp array	microarray
+2021	0	genome variation profiling by snp array	microarray
+2022	0	genome variation profiling by snp array	microarray
+2023	0	genome variation profiling by snp array	microarray
+2000	0	methylation profiling by array	microarray
+2001	0	methylation profiling by array	microarray
+2002	0	methylation profiling by array	microarray
+2003	0	methylation profiling by array	microarray
+2004	0	methylation profiling by array	microarray
+2005	0	methylation profiling by array	microarray
+2006	0	methylation profiling by array	microarray
+2007	0	methylation profiling by array	microarray
+2008	0	methylation profiling by array	microarray
+2009	0	methylation profiling by array	microarray
+2010	0	methylation profiling by array	microarray
+2011	0	methylation profiling by array	microarray
+2012	0	methylation profiling by array	microarray
+2013	0	methylation profiling by array	microarray
+2014	0	methylation profiling by array	microarray
+2015	0	methylation profiling by array	microarray
+2016	0	methylation profiling by array	microarray
+2017	0	methylation profiling by array	microarray
+2018	0	methylation profiling by array	microarray
+2019	0	methylation profiling by array	microarray
+2020	0	methylation profiling by array	microarray
+2021	0	methylation profiling by array	microarray
+2022	0	methylation profiling by array	microarray
+2023	0	methylation profiling by array	microarray
+2000	0	methylation profiling by genome tiling array	microarray
+2001	0	methylation profiling by genome tiling array	microarray
+2002	0	methylation profiling by genome tiling array	microarray
+2003	0	methylation profiling by genome tiling array	microarray
+2004	0	methylation profiling by genome tiling array	microarray
+2005	0	methylation profiling by genome tiling array	microarray
+2006	0	methylation profiling by genome tiling array	microarray
+2007	0	methylation profiling by genome tiling array	microarray
+2008	1	methylation profiling by genome tiling array	microarray
+2009	0	methylation profiling by genome tiling array	microarray
+2010	0	methylation profiling by genome tiling array	microarray
+2011	0	methylation profiling by genome tiling array	microarray
+2012	0	methylation profiling by genome tiling array	microarray
+2013	0	methylation profiling by genome tiling array	microarray
+2014	0	methylation profiling by genome tiling array	microarray
+2015	0	methylation profiling by genome tiling array	microarray
+2016	0	methylation profiling by genome tiling array	microarray
+2017	0	methylation profiling by genome tiling array	microarray
+2018	0	methylation profiling by genome tiling array	microarray
+2019	0	methylation profiling by genome tiling array	microarray
+2020	0	methylation profiling by genome tiling array	microarray
+2021	0	methylation profiling by genome tiling array	microarray
+2022	0	methylation profiling by genome tiling array	microarray
+2023	0	methylation profiling by genome tiling array	microarray
+2000	0	methylation profiling by snp array	microarray
+2001	0	methylation profiling by snp array	microarray
+2002	0	methylation profiling by snp array	microarray
+2003	0	methylation profiling by snp array	microarray
+2004	0	methylation profiling by snp array	microarray
+2005	0	methylation profiling by snp array	microarray
+2006	0	methylation profiling by snp array	microarray
+2007	0	methylation profiling by snp array	microarray
+2008	0	methylation profiling by snp array	microarray
+2009	0	methylation profiling by snp array	microarray
+2010	0	methylation profiling by snp array	microarray
+2011	0	methylation profiling by snp array	microarray
+2012	0	methylation profiling by snp array	microarray
+2013	0	methylation profiling by snp array	microarray
+2014	0	methylation profiling by snp array	microarray
+2015	0	methylation profiling by snp array	microarray
+2016	0	methylation profiling by snp array	microarray
+2017	0	methylation profiling by snp array	microarray
+2018	0	methylation profiling by snp array	microarray
+2019	0	methylation profiling by snp array	microarray
+2020	0	methylation profiling by snp array	microarray
+2021	0	methylation profiling by snp array	microarray
+2022	0	methylation profiling by snp array	microarray
+2023	0	methylation profiling by snp array	microarray
+2000	0	non coding rna profiling by array	microarray
+2001	0	non coding rna profiling by array	microarray
+2002	0	non coding rna profiling by array	microarray
+2003	0	non coding rna profiling by array	microarray
+2004	0	non coding rna profiling by array	microarray
+2005	0	non coding rna profiling by array	microarray
+2006	0	non coding rna profiling by array	microarray
+2007	1	non coding rna profiling by array	microarray
+2008	0	non coding rna profiling by array	microarray
+2009	0	non coding rna profiling by array	microarray
+2010	1	non coding rna profiling by array	microarray
+2011	3	non coding rna profiling by array	microarray
+2012	3	non coding rna profiling by array	microarray
+2013	3	non coding rna profiling by array	microarray
+2014	0	non coding rna profiling by array	microarray
+2015	0	non coding rna profiling by array	microarray
+2016	0	non coding rna profiling by array	microarray
+2017	1	non coding rna profiling by array	microarray
+2018	0	non coding rna profiling by array	microarray
+2019	0	non coding rna profiling by array	microarray
+2020	0	non coding rna profiling by array	microarray
+2021	0	non coding rna profiling by array	microarray
+2022	0	non coding rna profiling by array	microarray
+2023	0	non coding rna profiling by array	microarray
+2000	0	non coding rna profiling by genome tiling array	microarray
+2001	0	non coding rna profiling by genome tiling array	microarray
+2002	0	non coding rna profiling by genome tiling array	microarray
+2003	0	non coding rna profiling by genome tiling array	microarray
+2004	0	non coding rna profiling by genome tiling array	microarray
+2005	0	non coding rna profiling by genome tiling array	microarray
+2006	0	non coding rna profiling by genome tiling array	microarray
+2007	0	non coding rna profiling by genome tiling array	microarray
+2008	0	non coding rna profiling by genome tiling array	microarray
+2009	0	non coding rna profiling by genome tiling array	microarray
+2010	0	non coding rna profiling by genome tiling array	microarray
+2011	0	non coding rna profiling by genome tiling array	microarray
+2012	0	non coding rna profiling by genome tiling array	microarray
+2013	0	non coding rna profiling by genome tiling array	microarray
+2014	0	non coding rna profiling by genome tiling array	microarray
+2015	0	non coding rna profiling by genome tiling array	microarray
+2016	0	non coding rna profiling by genome tiling array	microarray
+2017	0	non coding rna profiling by genome tiling array	microarray
+2018	0	non coding rna profiling by genome tiling array	microarray
+2019	0	non coding rna profiling by genome tiling array	microarray
+2020	0	non coding rna profiling by genome tiling array	microarray
+2021	0	non coding rna profiling by genome tiling array	microarray
+2022	0	non coding rna profiling by genome tiling array	microarray
+2023	0	non coding rna profiling by genome tiling array	microarray
+2000	0	protein profiling by protein array	microarray
+2001	0	protein profiling by protein array	microarray
+2002	0	protein profiling by protein array	microarray
+2003	0	protein profiling by protein array	microarray
+2004	0	protein profiling by protein array	microarray
+2005	0	protein profiling by protein array	microarray
+2006	0	protein profiling by protein array	microarray
+2007	0	protein profiling by protein array	microarray
+2008	0	protein profiling by protein array	microarray
+2009	0	protein profiling by protein array	microarray
+2010	0	protein profiling by protein array	microarray
+2011	0	protein profiling by protein array	microarray
+2012	0	protein profiling by protein array	microarray
+2013	0	protein profiling by protein array	microarray
+2014	0	protein profiling by protein array	microarray
+2015	0	protein profiling by protein array	microarray
+2016	0	protein profiling by protein array	microarray
+2017	0	protein profiling by protein array	microarray
+2018	0	protein profiling by protein array	microarray
+2019	0	protein profiling by protein array	microarray
+2020	0	protein profiling by protein array	microarray
+2021	0	protein profiling by protein array	microarray
+2022	0	protein profiling by protein array	microarray
+2023	0	protein profiling by protein array	microarray
+2000	0	snp genotyping by snp array	microarray
+2001	0	snp genotyping by snp array	microarray
+2002	0	snp genotyping by snp array	microarray
+2003	0	snp genotyping by snp array	microarray
+2004	0	snp genotyping by snp array	microarray
+2005	0	snp genotyping by snp array	microarray
+2006	0	snp genotyping by snp array	microarray
+2007	0	snp genotyping by snp array	microarray
+2008	0	snp genotyping by snp array	microarray
+2009	0	snp genotyping by snp array	microarray
+2010	0	snp genotyping by snp array	microarray
+2011	0	snp genotyping by snp array	microarray
+2012	0	snp genotyping by snp array	microarray
+2013	0	snp genotyping by snp array	microarray
+2014	0	snp genotyping by snp array	microarray
+2015	0	snp genotyping by snp array	microarray
+2016	0	snp genotyping by snp array	microarray
+2017	0	snp genotyping by snp array	microarray
+2018	0	snp genotyping by snp array	microarray
+2019	0	snp genotyping by snp array	microarray
+2020	0	snp genotyping by snp array	microarray
+2021	0	snp genotyping by snp array	microarray
+2022	0	snp genotyping by snp array	microarray
+2023	0	snp genotyping by snp array	microarray
+2000	0	expression profiling by high throughput sequencing	sequencing
+2001	0	expression profiling by high throughput sequencing	sequencing
+2002	0	expression profiling by high throughput sequencing	sequencing
+2003	0	expression profiling by high throughput sequencing	sequencing
+2004	0	expression profiling by high throughput sequencing	sequencing
+2005	0	expression profiling by high throughput sequencing	sequencing
+2006	0	expression profiling by high throughput sequencing	sequencing
+2007	0	expression profiling by high throughput sequencing	sequencing
+2008	0	expression profiling by high throughput sequencing	sequencing
+2009	2	expression profiling by high throughput sequencing	sequencing
+2010	4	expression profiling by high throughput sequencing	sequencing
+2011	3	expression profiling by high throughput sequencing	sequencing
+2012	4	expression profiling by high throughput sequencing	sequencing
+2013	10	expression profiling by high throughput sequencing	sequencing
+2014	7	expression profiling by high throughput sequencing	sequencing
+2015	20	expression profiling by high throughput sequencing	sequencing
+2016	26	expression profiling by high throughput sequencing	sequencing
+2017	37	expression profiling by high throughput sequencing	sequencing
+2018	47	expression profiling by high throughput sequencing	sequencing
+2019	43	expression profiling by high throughput sequencing	sequencing
+2020	69	expression profiling by high throughput sequencing	sequencing
+2021	65	expression profiling by high throughput sequencing	sequencing
+2022	60	expression profiling by high throughput sequencing	sequencing
+2023	60	expression profiling by high throughput sequencing	sequencing
+2000	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2001	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2002	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2003	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2004	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2005	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2006	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2007	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2008	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2009	0	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2010	2	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2011	5	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2012	1	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2013	5	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2014	2	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2015	3	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2016	7	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2017	3	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2018	12	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2019	12	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2020	16	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2021	18	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2022	25	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2023	15	genome binding/occupancy profiling by high throughput sequencing	sequencing
+2000	0	genome variation profiling by high throughput sequencing	sequencing
+2001	0	genome variation profiling by high throughput sequencing	sequencing
+2002	0	genome variation profiling by high throughput sequencing	sequencing
+2003	0	genome variation profiling by high throughput sequencing	sequencing
+2004	0	genome variation profiling by high throughput sequencing	sequencing
+2005	0	genome variation profiling by high throughput sequencing	sequencing
+2006	0	genome variation profiling by high throughput sequencing	sequencing
+2007	0	genome variation profiling by high throughput sequencing	sequencing
+2008	0	genome variation profiling by high throughput sequencing	sequencing
+2009	0	genome variation profiling by high throughput sequencing	sequencing
+2010	0	genome variation profiling by high throughput sequencing	sequencing
+2011	0	genome variation profiling by high throughput sequencing	sequencing
+2012	0	genome variation profiling by high throughput sequencing	sequencing
+2013	0	genome variation profiling by high throughput sequencing	sequencing
+2014	0	genome variation profiling by high throughput sequencing	sequencing
+2015	0	genome variation profiling by high throughput sequencing	sequencing
+2016	0	genome variation profiling by high throughput sequencing	sequencing
+2017	1	genome variation profiling by high throughput sequencing	sequencing
+2018	0	genome variation profiling by high throughput sequencing	sequencing
+2019	0	genome variation profiling by high throughput sequencing	sequencing
+2020	0	genome variation profiling by high throughput sequencing	sequencing
+2021	0	genome variation profiling by high throughput sequencing	sequencing
+2022	2	genome variation profiling by high throughput sequencing	sequencing
+2023	0	genome variation profiling by high throughput sequencing	sequencing
+2000	0	methylation profiling by high throughput sequencing	sequencing
+2001	0	methylation profiling by high throughput sequencing	sequencing
+2002	0	methylation profiling by high throughput sequencing	sequencing
+2003	0	methylation profiling by high throughput sequencing	sequencing
+2004	0	methylation profiling by high throughput sequencing	sequencing
+2005	0	methylation profiling by high throughput sequencing	sequencing
+2006	0	methylation profiling by high throughput sequencing	sequencing
+2007	0	methylation profiling by high throughput sequencing	sequencing
+2008	0	methylation profiling by high throughput sequencing	sequencing
+2009	0	methylation profiling by high throughput sequencing	sequencing
+2010	5	methylation profiling by high throughput sequencing	sequencing
+2011	0	methylation profiling by high throughput sequencing	sequencing
+2012	1	methylation profiling by high throughput sequencing	sequencing
+2013	2	methylation profiling by high throughput sequencing	sequencing
+2014	1	methylation profiling by high throughput sequencing	sequencing
+2015	2	methylation profiling by high throughput sequencing	sequencing
+2016	3	methylation profiling by high throughput sequencing	sequencing
+2017	3	methylation profiling by high throughput sequencing	sequencing
+2018	14	methylation profiling by high throughput sequencing	sequencing
+2019	4	methylation profiling by high throughput sequencing	sequencing
+2020	11	methylation profiling by high throughput sequencing	sequencing
+2021	14	methylation profiling by high throughput sequencing	sequencing
+2022	7	methylation profiling by high throughput sequencing	sequencing
+2023	8	methylation profiling by high throughput sequencing	sequencing
+2000	0	non coding rna profiling by high throughput sequencing	sequencing
+2001	0	non coding rna profiling by high throughput sequencing	sequencing
+2002	0	non coding rna profiling by high throughput sequencing	sequencing
+2003	0	non coding rna profiling by high throughput sequencing	sequencing
+2004	0	non coding rna profiling by high throughput sequencing	sequencing
+2005	0	non coding rna profiling by high throughput sequencing	sequencing
+2006	0	non coding rna profiling by high throughput sequencing	sequencing
+2007	0	non coding rna profiling by high throughput sequencing	sequencing
+2008	3	non coding rna profiling by high throughput sequencing	sequencing
+2009	5	non coding rna profiling by high throughput sequencing	sequencing
+2010	5	non coding rna profiling by high throughput sequencing	sequencing
+2011	3	non coding rna profiling by high throughput sequencing	sequencing
+2012	7	non coding rna profiling by high throughput sequencing	sequencing
+2013	5	non coding rna profiling by high throughput sequencing	sequencing
+2014	3	non coding rna profiling by high throughput sequencing	sequencing
+2015	8	non coding rna profiling by high throughput sequencing	sequencing
+2016	13	non coding rna profiling by high throughput sequencing	sequencing
+2017	12	non coding rna profiling by high throughput sequencing	sequencing
+2018	13	non coding rna profiling by high throughput sequencing	sequencing
+2019	8	non coding rna profiling by high throughput sequencing	sequencing
+2020	14	non coding rna profiling by high throughput sequencing	sequencing
+2021	16	non coding rna profiling by high throughput sequencing	sequencing
+2022	11	non coding rna profiling by high throughput sequencing	sequencing
+2023	10	non coding rna profiling by high throughput sequencing	sequencing
